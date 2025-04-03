@@ -3,3 +3,6 @@
 [2025-04-02_19-08-33] Backup creado: /home/ubuntu/backups_local/backup_prestashop_2025-04-02_19-08-33.tar.gz
 [2025-04-02_19-28-13] Backup creado: /home/ubuntu/backups_local/backup_prestashop_2025-04-02_19-28-13.tar.gz
 [2025-04-02_21-30-01] Backup creado: /home/ubuntu/backups_local/backup_prestashop_2025-04-02_21-30-01.tar.gz
+[2025-04-02_21-33-32] Backup creado: /home/ubuntu/backups_local/backup_prestashop_2025-04-02_21-33-32.tar.gz
+[2025-04-02_21-36-45] Backup creado: /home/ubuntu/backups_local/backup_prestashop_2025-04-02_21-36-45.tar.gz
+[2025-04-03_16-17-08] Backup creado: /home/ubuntu/backups_local/backup_prestashop_2025-04-03_16-17-08.tar.gz
